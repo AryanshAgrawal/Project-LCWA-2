@@ -1,0 +1,23 @@
+#naturalimage{
+    height: 700px;
+    width:800px;
+    }
+    #introduction1{
+    text-align: center;
+    }
+    body{
+        background: linear-gradient(#96fc92 0%, #fcfc8d 100%);
+        text-align: center;
+    }
+    #logo{
+        height: 800px;
+        width: 800px;
+        text-align: center;
+    }
+    #logo2{
+    height: fit-content;
+    width: fit-content;
+    }
+    #background_image{
+    background-color: blue;
+    }
